@@ -1,6 +1,8 @@
 # intel-i5-10210U-thinkpad-e15
 黑苹果 Thinkpad E15 10210U
 
+opencore 0.8.6
+
 可以驱动的:
 1.CPU
 2.硬盘
